@@ -48,7 +48,7 @@ namespace Ex._06
             Console.WriteLine(" 10 x " + n + " = " + (10 * n));
 
 
-
+           
 
 
 

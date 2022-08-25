@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace ex._01
 {
@@ -8,7 +9,7 @@ namespace ex._01
         {
             Console.WriteLine("Agora estou Programando");
             Console.WriteLine("Guilherme de Oliveira Rodrigues");
-            Console.WriteLine("Vai Corinthians PORRA");
+            Console.WriteLine("Vai Corinthians");
         }
     }
 }
